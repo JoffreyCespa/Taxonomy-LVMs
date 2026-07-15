@@ -1,1 +1,23 @@
-
+﻿Column No.;Column Name;Expected Data Type;Explain
+1;Model name (full, no abbreviations);Free text;
+2;Main objective;Free text;"The model's central ""mission,"" expressed in plain language understandable to a non-specialist (e.g., grouping similar items, summarizing complex information, or uncovering hidden trends), abstracting away from the underlying mathematical mechanics."
+3;Secondary objectives;Free text;"The useful ""by-products"" of the model's output. For example, once a model has found the hidden structure (main objective), that structure can then be used to reduce the size of a dataset, filter out noise, or feed clean features into another predictive tool."
+4;Short description (≤ 40 words);Free text;
+5;Input data type;List (e.g., continuous, categorical, text, sequence...);
+6;Output data type;List (e.g., continuous latent factors, cluster labels...);
+7;Longitudinal / Time-series support;Binary (1 = yes, 0 = no);
+8;Assumptions required (Yes/No);Binary (Yes/No);
+9;If Yes, specify assumptions;Free text (e.g., multivariate normality, local independence);
+10;Estimation method(s);List (e.g., ML, REML, MCMC, EM algorithm);
+11;Missing data handling;Free text (e.g., FIML, multiple imputation, masking);
+12;Model fit & Evaluation metrics;List (e.g., AIC, BIC, RMSEA, CFI, Entropy);
+13;Time complexity (Big O);Free text (e.g., O(np2), O(i⋅n⋅k) for i iterations);
+14;Space complexity (Big O);Free text (e.g., O(np), O(p2));
+15;Scalability to high-dimensional data;Categorical (Low, Medium, High);The model's ability to maintain its performance, stability, and speed as the size and complexity of the dataset increase significantly. It evaluates whether the method gracefully handles growth or if it breaks down and slows to a crawl when faced with thousands of variables.
+16;Interpretability of latent space;Categorical (Low, Medium, High);How easily a human expert can understand and assign real-world meaning to the hidden patterns or factors the model has discovered. It measures the transparency and explainability of the model's results
+17;Common domains of use;Comma-separated keywords;
+18;R package available;Binary (1 = yes, 0 = no);
+19;R package;Package name (if col 16 = 1, else NA);
+20;Python module available;Binary (1 = yes, 0 = no);
+21;Python module;Module name (if col 18 = 1, else NA);
+22;Reference;Author, Year, DOI/URL;List (e.g., Author, Year) only those documents provided that you actually used to fill in at least one other cell in the row. If any of the documents provided do not contain any information relevant to this template, do not include them in this cell. 
