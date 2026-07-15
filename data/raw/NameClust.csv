@@ -1,0 +1,41 @@
+ID_Cluster;US_Cluster_Name;US_Global_Category
+-1;Unclassified Models / Miscellaneous;Noise / Miscellaneous
+0;Deep Generative Models & Neural Networks;Machine Learning & Generative Models
+1;Autoregressive & Cross-Lagged Panel Models;Temporal & Longitudinal Modeling
+2;Latent Response Interaction & Regression Models;Regression Hierarchical & Spatial Models
+4;Latent Change Score & Difference Models;Temporal & Longitudinal Modeling
+5;Latent Distribution Models;Regression Hierarchical & Spatial Models
+6;Latent Class Models;Categorization Mixture & Probabilities
+7;Hidden & Latent Markov Models;Categorization Mixture & Probabilities
+8;Pattern & Covariance Mixture Models;Categorization Mixture & Probabilities
+9;Finite Mixture & Gaussian Process Models;Categorization Mixture & Probabilities
+10;Latent Factor & Profile Models;Structural & Factor Models
+11;Probabilistic Diffusion & Semantic Models;Machine Learning & Generative Models
+12;Dimensional & Bayesian Latent Variable Models;Structural & Factor Models
+13;Dirichlet Process & Allocation Models;Categorization Mixture & Probabilities
+14;Discrete Choice & Discrete Factor Models;Categorization Mixture & Probabilities
+15;Dynamic & Multilevel Latent Models;Temporal & Longitudinal Modeling
+16;Psychometric Network & Exploratory Models;Structural & Factor Models
+17;Distance-based Clustering Algorithms;Machine Learning & Generative Models
+18;Hierarchical Mixed-Effects & State-Space Models;Regression Hierarchical & Spatial Models
+19;Generalized Linear Latent Variable Models;Regression Hierarchical & Spatial Models
+20;Second-Order Growth Mixture Models;Categorization Mixture & Probabilities
+21;Latent Trajectory Models;Temporal & Longitudinal Modeling
+22;Latent Class Logit Models;Categorization Mixture & Probabilities
+23;Latent Transition Models;Temporal & Longitudinal Modeling
+24;Latent Differential Equation Models;Temporal & Longitudinal Modeling
+25;Latent Variable Measurement Models;Structural & Factor Models
+26;Latent Regressions & Multinomial Path Models;Regression Hierarchical & Spatial Models
+27;Multivariate Latent Models;Regression Hierarchical & Spatial Models
+28;Latent State-Trait Models;Temporal & Longitudinal Modeling
+29;General Longitudinal Latent Models;Temporal & Longitudinal Modeling
+30;Latent Growth Curve & MIMIC Models;Temporal & Longitudinal Modeling
+31;Parallel Latent Growth Models;Temporal & Longitudinal Modeling
+32;Partial Least Squares & Projections (PLS);Structural & Factor Models
+33;Structural Equation Models & Latent Moderation;Structural & Factor Models
+34;Item Response Theory & Rasch Models;Categorization Mixture & Probabilities
+35;Latent Mediation & Moderation Models;Regression Hierarchical & Spatial Models
+36;Latent Probit Poisson & Zero-Inflated Models;Regression Hierarchical & Spatial Models
+37;Spatial Latent Models;Regression Hierarchical & Spatial Models
+38;Tree-Based Latent Models;Machine Learning & Generative Models
+39;Matrix Factorization & Principal Component Models;Machine Learning & Generative Models
